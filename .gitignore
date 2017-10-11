@@ -1,0 +1,9 @@
+﻿AStarPathfinding/Library/
+AStarPathfinding/Library/*
+AStarPathfinding/obj/
+AStarPathfinding/Temp/
+AStarPathfinding/*.booproj
+AStarPathfinding/*.unityproj
+AStarPathfinding/*.sln
+AStarPathfinding/*.csproj
+AStarPathfinding/.vs/AStarPathfinding-csharp/v14/.suo
