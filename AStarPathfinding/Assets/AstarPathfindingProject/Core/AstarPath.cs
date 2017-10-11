@@ -36,7 +36,7 @@ public class AstarPath : VersionedMonoBehaviour {
 	public enum AstarDistribution { WebsiteDownload, AssetStore };
 
 	/** Used by the editor to guide the user to the correct place to download updates */
-	public static readonly AstarDistribution Distribution = AstarDistribution.WebsiteDownload;
+	public static readonly AstarDistribution Distribution = AstarDistribution.AssetStore;
 
 	/** Which branch of the A* %Pathfinding Project is this release.
 	 * Used when checking for updates so that
